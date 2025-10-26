@@ -1,0 +1,6 @@
+node_modules/
+.env
+
+git add .gitignore
+git commit -m "adiciona .gitignore"
+git push
